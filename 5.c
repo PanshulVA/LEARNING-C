@@ -2,7 +2,7 @@
 
 // int main() {
 //     int var = 28;
-    
+
 //     printf("var = %d\n", var);
 //     return 0;
 // }
